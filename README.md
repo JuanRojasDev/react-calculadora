@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image](https://github.com/JuanRojasDev/react-calculadora/assets/114270458/3e6ed99b-c299-4854-bd09-74e7189dcfed)
+![image](https://github.com/JuanRojasDev/react-calculadora/assets/114270458/7b9bbec9-8b00-4c3b-8c6e-0b4794a045ec)
+
 
 ## Available Scripts
 
